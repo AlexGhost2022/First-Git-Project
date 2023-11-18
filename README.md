@@ -14,10 +14,15 @@
 [Albato](https://albato.com "Albato")  
 
 
-```JSON
-{
-"name": "Albato",
-"company": "Albato,
-"site": "https://albato.com"
-} 
+```mermaid  
+grahp LR;  
+
+untracked --"git add"--> staged;  
+
+staged --"???"--> tracked/commited;  
+
+%% стрелка без текста для примера:  
+
+A--> B;
+
 ```
