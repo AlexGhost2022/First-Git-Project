@@ -14,8 +14,7 @@
 [Albato](https://albato.com "Albato")  
 
 
-```
-JSON
+```JSON
 {
 "name": "Albato",
 "company": "Albato,
