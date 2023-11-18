@@ -7,6 +7,9 @@
 [Albato](https://albato.com "Albato")  
 
 
-```String name;  
-name="Albato"  
+```
+{
+"name": "Albato",
+"company": "Albato
+} 
 ```
