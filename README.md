@@ -15,7 +15,7 @@
 
 
 ```mermaid  
-grahp LR;  
+graph LR;  
 
 untracked --"git add"--> staged;  
 
